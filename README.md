@@ -1,7 +1,7 @@
 # ชื่อโปรเจกต์ hydroBus
    api ของ hydrobus app ควบคุม solanoin swicht ควบคุมนํ
 
-# 🛠️ Tech Stack
+## 🛠️ Tech Stack
 - ภาษา / Framework / Library ที่ใช้
   node.js
   exprass
@@ -11,7 +11,7 @@
 - container
   Docker 
 
-# ⚙️ Installation
+## ⚙️ Installation
 วิธีติดตั้งโปรเจกต์บนเครื่องตัวเอง
 
 ```bash

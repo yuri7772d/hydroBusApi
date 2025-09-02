@@ -28,5 +28,8 @@ cd repo
 # ติดตั้ง dependencies
 npm install
 
+# สร้าง database
+docker compose up -d
+
 # รันโปรเจกต์
 npm start

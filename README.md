@@ -1,11 +1,16 @@
-# ชื่อโปรเจกต์ hydroBus
-   api ของ hydrobus app ควบคุม solanoin swicht ควบคุมนํ
+# HydroBus
+   api ของ hydrobus app ควบคุม solanoin swicht ควบคุมนํ้า
+   จุดเด่นคือ 
+      - วางโครสร้างเเบบ cleanAcitecture
+      - unittest ได้ทุกส่วน
+      
 
 ## 🛠️ Tech Stack
 - ภาษา / Framework / Library ที่ใช้
   node.js
   exprass
   prisma(orm)
+  jest(unittesting)
 - ฐานข้อมูล
   postgres 
 - container
